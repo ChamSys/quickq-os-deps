@@ -12,3 +12,4 @@ git.yoctoproject.org/poky branch pyro
 git.openembedded.org/meta-openembedded branch pyro
 code.qt.io/yocto/meta-qt5 branch v5.13.1
 github.com/rockchip-linux/gstreamer-rockchip-extra tag release_20180115
+github.com/rockchip-linux/io branch master
